@@ -247,7 +247,7 @@ protected:
 int acceptRequest()
 {
  accept=1;
- return accept;
+ return accept
 }
 protected:
 int code()
